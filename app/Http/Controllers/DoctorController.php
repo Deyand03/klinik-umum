@@ -16,8 +16,7 @@ class DoctorController extends Controller
 
         // Ambil datanya
         $doctors = $response->json()['data'] ?? [];
-
         // Kirim ke View
-        return view('doctors.index', compact('doctors'));
+        return view('pasien.jadwal', compact('doctors'));
     }
 }

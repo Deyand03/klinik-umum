@@ -9,7 +9,7 @@ Route::get('/', function () {
 })->name('beranda');
 
 
-Route::get('/doctors', [DoctorController::class, 'index']);
+Route::get('/jadwal', [DoctorController::class, 'index'])->name('jadwal');
 
 
 

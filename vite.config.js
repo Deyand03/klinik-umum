@@ -8,6 +8,7 @@ export default defineConfig({
                 'resources/css/app.css',
                 'resources/js/app.js',
                 'resources/js/utility/navbar_beranda.js',
+                'resources/js/utility/navbar_jadwal.js',
                 'resources/js/bootstrap.js'],
             refresh: true,
         }),
