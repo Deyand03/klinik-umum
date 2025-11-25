@@ -12,7 +12,6 @@ class DoctorController extends Controller
         // Tembak API Backend
         $response = Http::get(env('API_URL') . '/klinik-umum/doctors', [
             'klinik_id' => env('CLINIC_ID'),
-            ''
         ]);
 
         // Ambil datanya

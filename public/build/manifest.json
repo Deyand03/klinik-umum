@@ -1,0 +1,23 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-BPHTaSF0.css",
+    "src": "resources/css/app.css",
+    "isEntry": true,
+    "name": "app",
+    "names": [
+      "app.css"
+    ]
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-CFr31pN_.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/js/utility/navbar_beranda.js": {
+    "file": "assets/navbar_beranda-Xl8FVwrh.js",
+    "name": "navbar_beranda",
+    "src": "resources/js/utility/navbar_beranda.js",
+    "isEntry": true
+  }
+}
